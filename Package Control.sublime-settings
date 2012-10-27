@@ -1,3 +1,12 @@
 {
-	"auto_upgrade_last_run": 1351311847
+	"auto_upgrade_last_run": 1351311847,
+	"installed_packages":
+	[
+		"sublime-github",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"AdvancedNewFile",
+		"SublimeLinter"
+	]
 }

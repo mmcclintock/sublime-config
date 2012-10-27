@@ -2,11 +2,17 @@
 	"auto_upgrade_last_run": 1351311847,
 	"installed_packages":
 	[
-		"sublime-github",
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"Gist",
+		"Git",
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
-		"AdvancedNewFile",
-		"SublimeLinter"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Soda"
 	]
 }

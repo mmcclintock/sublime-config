@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351311847,
+	"auto_upgrade_last_run": 1351480125,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -16,6 +16,7 @@
 		"Terminal",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
-		"WordCount"
+		"WordCount",
+		"Wrap Plus"
 	]
 }

@@ -1,6 +1,8 @@
 {
-	"theme": "Soda Dark.sublime-theme",
+	"font_size": 11,
 	"ignored_packages":
 	[
-	]
+	],
+	"spell_check": false,
+	"theme": "Soda Dark.sublime-theme"
 }

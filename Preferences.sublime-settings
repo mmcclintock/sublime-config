@@ -1,18 +1,26 @@
 {
+
 	"color_scheme": "Packages/Dayle Rees Color Schemes/Earthsong.tmTheme",
+
 	"font_face": "Inconsolata",
 	"font_size": 14.0,
-  "font_options": ["subpixel_antialias"],
+
 	"highlight_line": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"rulers": [80],
 	"highlight_modified_tabs": true,
-	"word_wrap": false,
-  "wrap_width": 80,
-	"trim_trailing_white_space_on_save": true,
-  "ensure_newline_at_eof_on_save": true,
-  "remember_open_files": false,
+
 	"margin": 0,
-	"ignored_packages":[]
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"remember_open_files": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"word_wrap": false,
+	"wrap_width": 80,
+	"ignored_packages":
+	[
+	]
 }

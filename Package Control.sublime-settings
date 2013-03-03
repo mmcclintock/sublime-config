@@ -3,19 +3,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
 		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
 		"Gist",
 		"Git",
-		"Markdown Preview",
-		"Nettuts+ Fetch",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Terminal",
-		"Theme - Soda",
-		"Tomorrow Color Schemes",
 		"WordCount",
 		"Wrap Plus"
 	]

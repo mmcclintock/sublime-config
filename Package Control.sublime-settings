@@ -6,9 +6,12 @@
 		"BracketHighlighter",
 		"Dayle Rees Color Schemes",
 		"Gist",
+		"Git",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"WordCount",
+		"Wrap Plus"
 	]
 }

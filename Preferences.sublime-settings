@@ -1,18 +1,10 @@
 {
-
 	"color_scheme": "Packages/Dayle Rees Color Schemes/Earthsong.tmTheme",
-
 	"font_face": "Inconsolata",
 	"font_size": 14.0,
-
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-
 	"margin": 0,
-	"rulers":
-	[
-		80
-	],
 	"tab_size": 2,
 	"remember_open_files": false,
 	"translate_tabs_to_spaces": true,
@@ -20,6 +12,10 @@
 	"ensure_newline_at_eof_on_save": true,
 	"word_wrap": false,
 	"wrap_width": 80,
+	"rulers":
+	[
+		80
+	],
 	"ignored_packages":
 	[
 	]
